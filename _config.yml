@@ -1,15 +1,15 @@
-name: Jerome Lachaud
+name: Arief Samuel
 job-title: web developer
-email: jerome.lachaud+identity@gmail.com
+email: ariefsamuel21@gmail.com
 description: >
-  Jerome Lachaud is my name. I am a Web Developer based in Brive La Gaillarde. I am currently working for Fasterize
-keywords: jerome lachaud, javascript, react, full-stack, html, css, express, web developer, front-end, web developer, Brive La Gaillarde, Fasterize
-baseurl: # the subpath of your site, e.g. /blog
-url: "http://jeromelachaud.com" # the base hostname & protocol for your site
-linkedin-url: https://www.linkedin.com/in/jeromelachaud/
-github-url: https://github.com/jeromelachaud
-stackoverflow-url: https://stackoverflow.com/story/jeromelachaud
-projects-url: https://projects.jeromelachaud.com
+  Arief Samuel is my name. I am a Web Developer based in Jakarta. I am currently not available for hire.
+keywords: arief samuel, C#, Docker, Backend, javascript, html, css, express, web developer, Loyal.Id
+baseurl:
+url: "https://ariefsamuel.cyou"
+linkedin-url: https://www.linkedin.com/in/arief-samuel-6962b91a8/
+github-url: https://github.com/arifsamuel
+stackoverflow-url: https://stackoverflow.com/users/13529905/arief21
+projects-url: https://stackoverflow.com/users/13529905/arief21
 
 # Google webmaster tools
 google_verify: Oi_XAR6yGyObqCQyGn7FXJv9sejZSrNxFlQs_M5LsBc
